@@ -137,4 +137,4 @@ DELETE http://localhost:3000/products/1
 
 When a product is deleted, it is stored in the deleted_products_log table.
 
-
+Created by Isabella Florez Cano
